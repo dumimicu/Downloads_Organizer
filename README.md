@@ -12,9 +12,9 @@ by categorizing files into different subfolders based on their file types.
 
  How to Use
 
-1. Clone or download the repository to your local machine.
+1. Clone or download the repository to your PC.
 2. Open a terminal and navigate to the project directory.
-3. Run the `downloads_folder_organizer.py` script using the command:
+3. Run the `downloads_folder_organizer.py` script using Python
 4. The script will scan your downloads folder, categorize files, and move them to respective subfolders.
 
 
