@@ -39,6 +39,6 @@ def organize_downloads_folder():
 if __name__ == "__main__":
     print("Starting Downloads Organizer...")
     organize_downloads_folder()
-    print("Good Job! You have organized your messy Downloads folder! ")
+    print("Done! You have organized your messy Downloads folder! ")
     print("Don't forget to move/save/backup or delete files from there to maintained it clean")
     print("Or RUN this script from time to time,it's easier! :) ")
