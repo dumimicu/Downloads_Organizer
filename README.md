@@ -1,6 +1,6 @@
   Downloads Organizer Python Project
 
-This project is a simple Python script that helps you organize your messy downloads folder
+This project is a Python script that helps you organize your messy downloads folder
 by categorizing files into different subfolders based on their file types.
 
  Features
